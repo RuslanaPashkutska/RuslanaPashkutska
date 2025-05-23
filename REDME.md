@@ -1,27 +1,27 @@
-# 👋 Hola, soy Ruslana Pashkutska
+# 👋 Hi, I'm Ruslana Pashkutska
 
-Soy una profesional con experiencia en gestión de pisos turísticos y atención al cliente, actualmente en transición hacia el mundo de la tecnología. Estoy estudiando desarrollo web y programación con muchas ganas de aprender, crecer y aplicar mis nuevas habilidades en proyectos reales.
+I'm a professional with experience in managing tourist apartments and customer service, currently transitioning into the tech world. I'm studying web development and programming with strong motivation to learn, grow, and apply my new skills in real projects.
 
-## 💻 Tecnologías que estoy aprendiendo
+## 💻 Technologies I'm learning
 
-- 🐍 Python
-- 🌐 HTML, CSS
-- 📦 Git & GitHub
-- ⚙️ Flask (próximamente)
+- 🐍 Python  
+- 🌐 HTML, CSS  
+- 📦 Git & GitHub  
+- ⚙️ Flask (coming soon)
 
-## 🚀 Proyectos en los que he trabajado
+## 🚀 Projects I've worked on
 
-····
+···· 
 
-## 🎯 Objetivo profesional
+## 🎯 Career objective
 
-Quiero desarrollarme como programadora junior, empezar en un entorno donde pueda aportar valor desde el primer día y seguir aprendiendo con un equipo que comparta la pasión por la tecnología.
+I'm looking to grow as a junior developer, join a team where I can add value from day one, and continue learning in a collaborative and passionate tech environment.
 
-## 📫 Cómo contactarme
+## 📫 How to reach me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ruslanapashkutska)
-- ryslana.pashkytska@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ruslanapashkutska)  
+- 📧 ryslana.pashkytska@gmail.com
 
 ---
 
-⭐ Gracias por visitar mi perfil. ¡Estoy abierta a nuevas oportunidades y colaboraciones!
+⭐ Thanks for visiting my profile. I'm open to new opportunities and collaborations!
